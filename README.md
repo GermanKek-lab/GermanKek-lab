@@ -1,4 +1,4 @@
-![[Uploading marie-pink-hair.gif…](https://media.tenor.com/Tbw4wUep_gkAAAAd/marie-pink-hair.gif)]()
+![Uploading marie-pink-hair.gif…]()
 
 <h1 align="center">Hi 👋, I'm German Kek</h1>
 <h3 align="center">"Искусство - это взрыв!" - Дейдара</h3>
