@@ -20,9 +20,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=germankek-lab&show_icons=true&locale=en" alt="germankek-lab" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=germankek-lab&" alt="germankek-lab" /></p>
-<img src="https://www.icegif.com/wp-content/uploads/2022/03/icegif-17.gif" style="width:1000px;">
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+![anime-girl-alone-fantasy-5k-2560x1440-3](https://user-images.githubusercontent.com/83396238/232729670-2839d4e7-7c98-492f-8da1-72c770e00012.jpg)
 
 <!--
 **GermanKek-lab/GermanKek-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
