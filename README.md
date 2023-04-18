@@ -1,4 +1,4 @@
-![marie-pink-hair](https://user-images.githubusercontent.com/83396238/232721351-483b4b19-420e-418d-86d9-abd33918a3cb.gif)
+![anime](https://user-images.githubusercontent.com/83396238/232722375-c22bc316-bb50-4337-9f4d-a38da59c39cc.gif)
 
 <h1 align="center">Hi 👋, I'm German Kek</h1>
 <h3 align="center">"Искусство - это взрыв!" - Дейдара</h3>
