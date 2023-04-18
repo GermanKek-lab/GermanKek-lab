@@ -1,4 +1,4 @@
-![Uploading marie-pink-hair.gif…]()
+![[Uploading marie-pink-hair.gif…](https://media.tenor.com/Tbw4wUep_gkAAAAd/marie-pink-hair.gif)]()
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
