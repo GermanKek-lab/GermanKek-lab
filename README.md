@@ -1,6 +1,6 @@
-![anime](https://user-images.githubusercontent.com/83396238/232722375-c22bc316-bb50-4337-9f4d-a38da59c39cc.gif)
 
-<h1 align="center">Hi 👋, I'm German Kek</h1>
+
+<h1 align="center">Hi 👋, I'm German Kek <img src="https://media.tenor.com/TDSm6NeIQoEAAAAd/anime.gif" style="width:100px;"></h1>
 <h3 align="center">"Искусство - это взрыв!" - Дейдара</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=germankek-lab&label=Profile%20views&color=0e75b6&style=flat" alt="germankek-lab" /> </p>
@@ -20,6 +20,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=germankek-lab&show_icons=true&locale=en" alt="germankek-lab" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=germankek-lab&" alt="germankek-lab" /></p>
+<img src="https://www.icegif.com/wp-content/uploads/2022/03/icegif-17.gif" style="width:1000px;">
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
