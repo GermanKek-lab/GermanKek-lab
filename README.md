@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm German Kek <img src="https://media.tenor.com/TDSm6NeIQoEAAAAd/anime.gif" style="width:100px;"></h1>
-<h3 align="center">"Искусство - это взрыв!" - Дейдара</h3>
+<h3 align="center">"Без пруда и труда, рыбка буль буль, туда сюда"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=germankek-lab&label=Profile%20views&color=0e75b6&style=flat" alt="germankek-lab" /> </p>
 
@@ -21,9 +21,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=germankek-lab&" alt="germankek-lab" /></p>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-![anime-girl-alone-fantasy-5k-2560x1440-3](https://user-images.githubusercontent.com/83396238/232729670-2839d4e7-7c98-492f-8da1-72c770e00012.jpg)
 
 <!--
 **GermanKek-lab/GermanKek-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
