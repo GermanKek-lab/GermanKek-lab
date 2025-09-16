@@ -41,17 +41,3 @@
 </div>
 
 ###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<img align="right" height="220" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGpqbnVtZHd0NHU5aWN3am40dXU4dGNuY3phODd6Z29mMWV4ZGRwbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IWbey5PkHvwCdyvJv2/giphy.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=GermanKek-lab&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
